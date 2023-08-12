@@ -46,6 +46,11 @@ body {
     padding: 10px;
     border-radius: 5px;
     background-color: white;
+    
+  }
+  img{
+    max-width: 70%;
+    height: auto;
   }
 
   .dropdown {
